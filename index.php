@@ -55,9 +55,9 @@
          <div class="col-sm-3" style="background-color: white">
 
 				<h5>become one of us</h5>
-				<button type="button" class="btn btn-outline-warning btn-block">Sign up</button>
+        <a href="login.php" class="btn btn-large btn-outline-warning btn-block ">Sign up</a>
 				<p>Already have an account?</p>
-                <button type="button" class="btn btn-outline-secondary btn-block">Sign In</button>
+                <a href="login.php" class="btn btn-large btn-outline-warning btn-block ">Sign up</a>
 			</div>
 
 			
